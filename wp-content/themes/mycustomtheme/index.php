@@ -10,7 +10,7 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package WordPress
- * @subpackage Twenty_Nineteen
+ * @subpackage mycustomtheme
  * @since 1.0.0
  */
 
