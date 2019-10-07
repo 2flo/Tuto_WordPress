@@ -7,3 +7,39 @@ Author URI:
 Template:       twentynineteen
 Version:        0.1.0
 */
+.site-header {
+    text-align: center;
+    background-color: rgb(58, 134, 58);
+    font-size: 2em;
+}
+
+.site-description{
+    color: black;
+}
+
+.site-branding{
+    display: flex;
+    flex-direction: column;
+}
+
+.site-logo{
+    height: 50px;
+}
+
+.entry-title{
+    text-decoration: underline orange;
+    color: red;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    color: orangered;
+    text-decoration: underline orangered;
+}
+
+cite{
+    font-style: italic;
+}
